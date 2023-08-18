@@ -1,0 +1,22 @@
+C:\Users\joaow\OneDrive\Área de Trabalho\Operadores Matemáticos\Operadores Matemáticos\bin\Debug\Operadores Matemáticos.exe.config
+C:\Users\joaow\OneDrive\Área de Trabalho\Operadores Matemáticos\Operadores Matemáticos\bin\Debug\Operadores Matemáticos.exe
+C:\Users\joaow\OneDrive\Área de Trabalho\Operadores Matemáticos\Operadores Matemáticos\bin\Debug\Operadores Matemáticos.pdb
+C:\Users\joaow\OneDrive\Área de Trabalho\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\calculadora.csproj.AssemblyReference.cache
+C:\Users\joaow\OneDrive\Área de Trabalho\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaow\OneDrive\Área de Trabalho\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\Operadores_Matemáticos.frmOperadores.resources
+C:\Users\joaow\OneDrive\Área de Trabalho\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\Operadores_Matemáticos.Properties.Resources.resources
+C:\Users\joaow\OneDrive\Área de Trabalho\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\joaow\OneDrive\Área de Trabalho\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\joaow\OneDrive\Área de Trabalho\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\Operadores Matemáticos.exe
+C:\Users\joaow\OneDrive\Área de Trabalho\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\Operadores Matemáticos.pdb
+C:\Users\joaow\OneDrive\Área de Trabalho\Calculadora\Operadores Matemáticos\obj\Debug\calculadora.csproj.AssemblyReference.cache
+C:\Users\joaow\OneDrive\Área de Trabalho\Calculadora\Operadores Matemáticos\obj\Debug\calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaow\OneDrive\Área de Trabalho\Calculadora\Operadores Matemáticos\obj\Debug\Operadores_Matemáticos.frmOperadores.resources
+C:\Users\joaow\OneDrive\Área de Trabalho\Calculadora\Operadores Matemáticos\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\joaow\OneDrive\Área de Trabalho\Calculadora\Operadores Matemáticos\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\joaow\OneDrive\Área de Trabalho\Calculadora\Operadores Matemáticos\bin\Debug\Operadores Matemáticos.exe.config
+C:\Users\joaow\OneDrive\Área de Trabalho\Calculadora\Operadores Matemáticos\bin\Debug\Operadores Matemáticos.exe
+C:\Users\joaow\OneDrive\Área de Trabalho\Calculadora\Operadores Matemáticos\bin\Debug\Operadores Matemáticos.pdb
+C:\Users\joaow\OneDrive\Área de Trabalho\Calculadora\Operadores Matemáticos\obj\Debug\Operadores_Matemáticos.Properties.Resources.resources
+C:\Users\joaow\OneDrive\Área de Trabalho\Calculadora\Operadores Matemáticos\obj\Debug\Operadores Matemáticos.exe
+C:\Users\joaow\OneDrive\Área de Trabalho\Calculadora\Operadores Matemáticos\obj\Debug\Operadores Matemáticos.pdb

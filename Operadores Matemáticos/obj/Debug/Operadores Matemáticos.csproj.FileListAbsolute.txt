@@ -1,0 +1,11 @@
+E:\CTII-218 - C#\2017-02-16\Operadores Matemáticos\Operadores Matemáticos\bin\Debug\Operadores Matemáticos.exe.config
+E:\CTII-218 - C#\2017-02-16\Operadores Matemáticos\Operadores Matemáticos\bin\Debug\Operadores Matemáticos.exe
+E:\CTII-218 - C#\2017-02-16\Operadores Matemáticos\Operadores Matemáticos\bin\Debug\Operadores Matemáticos.pdb
+E:\CTII-218 - C#\2017-02-16\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\Operadores_Matemáticos.frmOperadores.resources
+E:\CTII-218 - C#\2017-02-16\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\Operadores_Matemáticos.Properties.Resources.resources
+E:\CTII-218 - C#\2017-02-16\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\Operadores Matemáticos.csproj.GenerateResource.Cache
+E:\CTII-218 - C#\2017-02-16\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\Operadores Matemáticos.exe
+E:\CTII-218 - C#\2017-02-16\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\Operadores Matemáticos.pdb
+E:\CTII-217 - C#\2017-02-17\Operadores Matemáticos\Operadores Matemáticos\bin\Debug\Operadores Matemáticos.exe.config
+E:\CTII-217 - C#\2017-02-17\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\Operadores Matemáticos.exe
+E:\CTII-217 - C#\2017-02-17\Operadores Matemáticos\Operadores Matemáticos\obj\Debug\Operadores Matemáticos.pdb
